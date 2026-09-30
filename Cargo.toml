@@ -1,9 +1,11 @@
 [package]
 name = "change-point"
 version = "0.1.0"
-description = "A Rust library for Change Point"
+description = "Change Point — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/change-point"
+repository = "https://github.com/SuperInstance/change-point"
 edition = "2021"
+
+keywords = ["change-point"]
 
 [dependencies]
